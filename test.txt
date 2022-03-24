@@ -1,2 +1,3 @@
 testovaci textovy subor
 zmena od spolupracovnika
+2. zmena spolupracovnika
