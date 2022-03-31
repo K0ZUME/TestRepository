@@ -3,4 +3,4 @@ zmena od spolupracovnika
 kozume riadok
 
 1. zmena na vetve main - rebase
-2. zmena na vetve main
+2. zmena na vetve main - rebase
