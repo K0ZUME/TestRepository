@@ -1,6 +1,8 @@
-2. zmena, testovaci textovy subor
+zmena, rebase vetva Testing
+2. zmena, rebase vetva Testing
 zmena od spolupracovnika
 kozume riadok
 
-1. zmena na vetve main
-2. zmena na vetve main
+
+zmena na vetve
+2. zmena na vetve
