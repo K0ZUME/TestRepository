@@ -1,4 +1,4 @@
-2. zmena, testovaci textovy subor
+zmena, rebase vetva Testing
 zmena od spolupracovnika
 kozume riadok
 
