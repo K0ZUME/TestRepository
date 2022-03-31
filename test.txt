@@ -1,4 +1,5 @@
 zmena, rebase vetva Testing
+2. zmena, rebase vetva Testing
 zmena od spolupracovnika
 kozume riadok
 
