@@ -1,3 +1,4 @@
 2. zmena, testovaci textovy subor
 zmena od spolupracovnika
 kozume riadok
+zmena na vetve
