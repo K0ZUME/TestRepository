@@ -6,5 +6,7 @@ kozume riadok
 1. zmena na vetve main - rebase
 2. zmena na vetve main - rebase
 
-zmena Vetva2
-este jedna zmena
+ta toto som musela zmenit bo conflict
+a tu zeby prazdno nebolo
+
+aj tu chcem zmenu
