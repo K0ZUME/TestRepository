@@ -5,3 +5,5 @@ kozume riadok
 
 1. zmena na vetve main - rebase
 2. zmena na vetve main - rebase
+
+zmena Vetva2
