@@ -7,3 +7,4 @@ kozume riadok
 2. zmena na vetve main - rebase
 
 zmena Vetva2
+este jedna zmena
