@@ -1,12 +1,5 @@
-zmena, rebase vetva Testing
-2. zmena, rebase vetva Testing
-zmena od spolupracovnika
-kozume riadok
+Main
 
-1. zmena na vetve main - rebase
-2. zmena na vetve main - rebase
+Johan 1. zmena
 
-ta toto som musela zmenit bo conflict
-a tu zeby prazdno nebolo
-
-aj tu chcem zmenu
+Otto 1. zmena
