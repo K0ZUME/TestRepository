@@ -6,5 +6,11 @@ kozume riadok
 zmena na vetve
 2. zmena na vetve
 
+
+
+
+
+
+to si kusok upravim zeby nebol conflict
 aj tu chcem zmenu
 taze na test uz mam 2 zmeny teraz
