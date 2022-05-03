@@ -1,10 +1,1 @@
-zmena, rebase vetva Testing
-2. zmena, rebase vetva Testing
-zmena od spolupracovnika
-kozume riadok
-
-1. zmena na vetve main - rebase
-2. zmena na vetve main - rebase
-
-sak i na main dame daco
-no tu dam len daco take bo chcem stage vyskusat
+Main
