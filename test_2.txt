@@ -3,3 +3,5 @@ Main Branch
 Friedrich opravna zmena testovacia
 
 Friedrich 2. zmena
+
+Friedrich 3. zmena
