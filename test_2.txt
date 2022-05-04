@@ -1,2 +1,5 @@
-Main Branch 2
+Main Branch
+
 Friedrich opravna zmena
+
+Friedrich 2. zmena
