@@ -1,0 +1,2 @@
+len testovaci riadok
+funguje .gitignore
