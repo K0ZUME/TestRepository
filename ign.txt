@@ -1,2 +1,2 @@
 len testovaci test
-aby nastal conflict
+pre konflikt
