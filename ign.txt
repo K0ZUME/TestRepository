@@ -1,2 +1,2 @@
 len testovaci riadok
-funguje .gitignore
+aby nastal conflict
