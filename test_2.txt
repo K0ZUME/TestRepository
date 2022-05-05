@@ -2,4 +2,4 @@ Main Branch
 
 Friedrich opravna zmena
 
-Friedrich 2. zmena
+Friedrich konflikt zmena
