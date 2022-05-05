@@ -1,2 +1,2 @@
-len testovaci riadok
+len testovaci test
 aby nastal conflict
